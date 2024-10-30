@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jet Footer Code 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-24 16:50+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jettochkin <milord_k@mail.ru>\n"
+"Language-Team: Jettochkin <milord_k@mail.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\testwork-web\\home\\work1.ru\\www\\wp-content\\plugins\\jet-footer-code\n"
+"X-Poedit-SearchPath-0: C:\\testwork-web\\home\\work1.ru\\www\\wp-content\\plugins\\jet-footer-code\n"
+
+#: C:\testwork-web\home\work1.ru\www\wp-content\plugins\jet-footer-code/jet_footer-code.php:14
+msgid "simple code"
+msgstr " "
+
+#: C:\testwork-web\home\work1.ru\www\wp-content\plugins\jet-footer-code/jet_footer-code.php:34
+msgid "Footer code"
+msgstr "Код для \"подвала\""
+
+#: C:\testwork-web\home\work1.ru\www\wp-content\plugins\jet-footer-code/jet_footer-code.php:65
+msgid "Options updated."
+msgstr "Настройки сохранены."
+
+#: C:\testwork-web\home\work1.ru\www\wp-content\plugins\jet-footer-code/jet_footer-code.php:69
+msgid "Jet Footer Code"
+msgstr ""
+
+#: C:\testwork-web\home\work1.ru\www\wp-content\plugins\jet-footer-code/jet_footer-code.php:74
+msgid "Let's make some changes:"
+msgstr "Давайте внесем необходимые изменения:"
+
+#: C:\testwork-web\home\work1.ru\www\wp-content\plugins\jet-footer-code/jet_footer-code.php:77
+msgid "Enabled Footer code"
+msgstr "Разрешить размещение кода в \"подвале\""
+
+#: C:\testwork-web\home\work1.ru\www\wp-content\plugins\jet-footer-code/jet_footer-code.php:83
+msgid "Align to center"
+msgstr "Центровать код"
+
+#: C:\testwork-web\home\work1.ru\www\wp-content\plugins\jet-footer-code/jet_footer-code.php:89
+msgid "Allow index code"
+msgstr "Разрешить индексировать код"
+
+#: C:\testwork-web\home\work1.ru\www\wp-content\plugins\jet-footer-code/jet_footer-code.php:95
+msgid "Code for footer"
+msgstr "Код для \"подвала\""
+
+#: C:\testwork-web\home\work1.ru\www\wp-content\plugins\jet-footer-code/jet_footer-code.php:102
+msgid "Save Settings"
+msgstr "Сохранить изменения"
+

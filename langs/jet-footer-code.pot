@@ -1,0 +1,57 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/jet-footer-code\n"
+"POT-Creation-Date: 2010-05-24 13:34+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: jet_footer-code.php:14
+msgid "simple code"
+msgstr ""
+
+#: jet_footer-code.php:34
+msgid "Footer code"
+msgstr ""
+
+#: jet_footer-code.php:65
+msgid "Options updated."
+msgstr ""
+
+#: jet_footer-code.php:69
+msgid "Jet Footer Code"
+msgstr ""
+
+#: jet_footer-code.php:74
+msgid "Let's make some changes:"
+msgstr ""
+
+#: jet_footer-code.php:77
+msgid "Enabled Footer code"
+msgstr ""
+
+#: jet_footer-code.php:83
+msgid "Align to center"
+msgstr ""
+
+#: jet_footer-code.php:89
+msgid "Allow index code"
+msgstr ""
+
+#: jet_footer-code.php:95
+msgid "Code for footer"
+msgstr ""
+
+#: jet_footer-code.php:102
+msgid "Save Settings"
+msgstr ""
